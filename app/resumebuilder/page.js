@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { useRouter } from "next/navigation";  // Ensure useRouter is properly imported
-import { db, storage } from "@/firebase"; // Ensure Firebase is configured
+import { db, storage } from "../../lib/firebase"; // Ensure Firebase is configured
 import { collection, addDoc } from "firebase/firestore";
 import jsPDF from "jspdf";
 import { ref, getDownloadURL, uploadBytes } from "firebase/storage";

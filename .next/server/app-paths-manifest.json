@@ -1,7 +1,17 @@
 {
-  "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/editprofile/page": "app/editprofile/page.js",
+  "/helpcenter/page": "app/helpcenter/page.js",
+  "/changepassword/page": "app/changepassword/page.js",
+  "/internship/page": "app/internship/page.js",
+  "/intership/page": "app/intership/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/landing/page": "app/landing/page.js",
+  "/page": "app/page.js",
+  "/mentor/page": "app/mentor/page.js",
+  "/manageaccount/page": "app/manageaccount/page.js",
+  "/profile/page": "app/profile/page.js",
   "/resumebuilder/page": "app/resumebuilder/page.js",
-  "/manageaccount/page": "app/manageaccount/page.js"
+  "/safetytips/page": "app/safetytips/page.js"
 }
