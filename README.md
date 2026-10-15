@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JobNexus 🚀
 
-## Getting Started
+JobNexus is an AI-powered job portal built during **MITS CodeSprint** to bridge the gap between job seekers and HR teams/companies.
 
-First, run the development server:
+It helps users discover the latest jobs, receive career guidance, and create resumes through an integrated smart chatbot.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Links
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Live Demo:** https://jobnexusss.netlify.app/
+- **GitHub Repository:** https://github.com/msyed74/jobnexusafterhackathonf
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Job seeker and HR/company-focused platform
+- Browse and discover the latest job listings
+- Firebase authentication for secure sign-in
+- JWT-based authorization
+- MongoDB for storing user data
+- Smart chatbot for:
+  - Answering questions based on current job listings
+  - Career guidance
+  - Resume creation assistance
+- Responsive and user-friendly interface
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- Frontend: React / HTML / CSS / JavaScript
+- Backend: Node.js / Express
+- Database: MongoDB
+- Authentication: Firebase + JWT
+- AI: Smart chatbot for job and career assistance
+- Deployment: Netlify
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Purpose
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+JobNexus was built during a hackathon to solve a real-world problem: job seekers often struggle to find relevant opportunities, while companies need an efficient way to reach suitable candidates. The platform connects both sides and adds AI-powered career support.
